@@ -1,0 +1,49 @@
+1. Watch and repeat all videos's actions (4h)
+    https://youtu.be/ZZ1-jLeR1KE
+    https://youtu.be/2pk_J5eEMf4
+
+2.Practical part (8h)
+    1. Finish the ClassWork
+
+  	2. Написать основные классы Студент, Предмет, если нужно будет дописывать новые
+     	Предмет содержит поля:
+     		имя
+     		количество часов в семестре
+     		количество проработанных часов студентом
+     		оценка студента за предмет
+
+     	методы:
+     		сдать экзамен
+     		показать информацию о предмете
+     		получить оценку студента за предмет
+
+     	Студент
+     	поля:
+     		Имя
+     		Адрес
+     		Предметы
+
+     	методы:
+     		учиться
+     		добавить предмет
+     		удалить предмет из списка последний
+     		показать всю информацию о предметах
+     		получить средний бал за все предметы
+
+    3. Написать класс строка
+   	- создание на основе массива символов
+   	- вывод на экран
+   	- конкатенация
+   	- понижение регистра
+   	- повышение регистра
+   	- поиск подстроки
+   	- выделение подстроки
+   	- удаление пробелов
+   	- метод для сравнения с другой строкой
+
+3. Be prepared for next weekend(6h)
+    Watch and repeat all actions
+    https://www.youtube.com/watch?v=DLF3bgJMmHI&t=1916s&list=PLvmHg49t5OCRWqG58bycrLoAr85e-e9dd&index=3&pbjreload=10
+    https://www.youtube.com/watch?v=lb0N2Li_Fbk&index=4&list=PLvmHg49t5OCRWqG58bycrLoAr85e-e9dd&pbjreload=10
+    https://www.youtube.com/watch?v=h1G83mlG3wI&list=PLvmHg49t5OCRWqG58bycrLoAr85e-e9dd&index=5&pbjreload=10
+
