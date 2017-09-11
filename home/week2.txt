@@ -1,0 +1,25 @@
+1. You had to watch all videos till week3 (inclusive)
+    https://www.youtube.com/playlist?list=PLvmHg49t5OCRWqG58bycrLoAr85e-e9dd
+
+2. Finish Task (2 hours) that i started on the weekend
+    week2 package
+
+    Controller class, write tests for Controller
+
+3. Go through next projects (3 hours). We should understand architecture and relations
+   3.1. https://github.com/presly808/ACO6/tree/master/src/ua/artcode/service_centre/v2/centre_mvc
+       https://github.com/presly808/ACO6/blob/master/src/ua/artcode/service_centre/v2/centre_mvc/diagram.png
+
+   3.2. https://github.com/presly808/ACO6/tree/master/src/ua/artcode/service_centre/v3/service_centre
+       https://github.com/presly808/ACO6/blob/master/src/ua/artcode/service_centre/v3/service_centre/diagram.png
+
+   3.3. https://github.com/presly808/ACO6/tree/master/src/ua/artcode/dp/mvc
+       https://github.com/presly808/ACO6/blob/master/src/ua/artcode/dp/mvc/mvc_simple.png
+
+4. Create class diagram basing on next application(choose only one) gmail.com, rozetka.com, facebook.com (4 hours)
+    - your diagram must contain at least 20 classes
+    - there should be either 'is-a' and 'has-a' realations
+
+5. Watch videos of 4th week. Use the playlist that in 1th point of homework (6 hours)
+    - Repeat all action (Essential)
+    - Make simple notes
