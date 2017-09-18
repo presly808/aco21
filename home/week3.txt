@@ -1,0 +1,25 @@
+Hi, guys. This week will be dedicated to repeating and finishing all started tasks.
+
+1. Finish prev homework (4 hours)
+  * Watching the videos
+  * Discovering projects (ServiceCentre)
+  * Recursion-1 (ten tasks)
+  *. TreeOperations
+    *. Create Tree
+    *. implement next methods
+       int calculateSum(Node root)
+       Node findMin(Node root)
+       String printTree(Node root)
+       void findMinMaxAndSwap(Node root)
+  * Visualize merge and quick sort.
+  
+2. Theory (2h)
+  - Enum
+  - Date
+  - Calendar and GregorianCalendar
+  
+3. Exceptions, Stack, Queue, Iterator, Generics (6 h)
+  https://www.youtube.com/watch?v=zzzXOYZOzzo&list=PLvmHg49t5OCRWqG58bycrLoAr85e-e9dd&index=10
+  https://www.youtube.com/watch?v=3DMc8ROSWko&index=11&list=PLvmHg49t5OCRWqG58bycrLoAr85e-e9dd
+  
+When you will have finished all points, just ask for new tasks
