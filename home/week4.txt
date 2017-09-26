@@ -1,0 +1,11 @@
+1. Finish prev homework
+
+2. Java8
+https://youtu.be/4SvaVGv9GGE?t=3992
+
+3. Collections (Repeat all actions) + BusinessLogic translation (5h)
+https://youtu.be/IQOqoWdcwpk?list=PLvmHg49t5OCQeODC20iDQpBOXFXHJz2em
+https://www.youtube.com/watch?v=KgQkp-c-q-8&list=PLvmHg49t5OCQeODC20iDQpBOXFXHJz2em&index=15
+
+4. SimpleHttpServer + JS(3h)
+https://www.youtube.com/watch?v=y29TRjLScYo
